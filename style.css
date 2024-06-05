@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+#attempt {
+    font-size: 4em;
+}
+#buttonsContainer {
+    font-size: 2em;
+}
+
+.buttons {
+    padding: 10px 20px;
+    background-color: mediumaquamarine;
+    border-color: rgb(10, 255, 173);
+    border-style: groove;
+    border-radius: 3em;
+    cursor: pointer;
+    transition: background-color;
+}
+.buttons:hover {
+    background-color: rgb(16, 151, 106);
+}
